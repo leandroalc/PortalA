@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538008448237",
+    "firebase_url": "https://portalaplus-d5f73.firebaseio.com",
+    "project_id": "portalaplus-d5f73",
+    "storage_bucket": "portalaplus-d5f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538008448237:android:d3bef4cfdee4a7960870e4",
+        "android_client_info": {
+          "package_name": "com.example.portalaplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538008448237-090hquo1qdnabnlvg5fjnbh3tm3rmhk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.portalaplus",
+            "certificate_hash": "4f27b6cdf7c82dd61de16d4916e1dbaa7442ea6e"
+          }
+        },
+        {
+          "client_id": "538008448237-3f6jg753l89iifha72t5ps1jjtrc2i8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AKr5eJ9vfSweAIuAgQmevCXFUR7B4GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538008448237-3f6jg753l89iifha72t5ps1jjtrc2i8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
