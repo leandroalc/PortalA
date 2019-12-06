@@ -3,4 +3,6 @@
     <color name="colorPrimary">#2565F6</color>
     <color name="colorPrimaryDark">#003EBD</color>
     <color name="colorAccent">#2565F6</color>
+    <color name="vermelho">#2565F6</color>
+    <color name="vermelho_escuro">#06235F</color>
 </resources>

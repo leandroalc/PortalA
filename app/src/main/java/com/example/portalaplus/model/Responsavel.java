@@ -7,6 +7,7 @@ public class Responsavel implements Parcelable {
 
     private String nome = "Responsável Teste";
     private String email = "responsavel@gmail.com";
+    private String senha = "responsavel";
     private Aluno aluno;
 
     public Responsavel() {
@@ -52,6 +53,14 @@ public class Responsavel implements Parcelable {
 
     public void setAluno(Aluno aluno) {
         this.aluno = aluno;
+    }
+
+    public String getSenha() {
+        return senha;
+    }
+
+    public void setSenha(String senha) {
+        this.senha = senha;
     }
 
     @Override
