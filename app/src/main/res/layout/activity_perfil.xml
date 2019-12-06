@@ -119,6 +119,7 @@
             android:layout_weight="1"
             android:background="@android:color/white"
             android:drawableBottom="@drawable/ic_add_a_photo_asset_24dp"
+            android:onClick="tirarFoto"
             android:paddingTop="10dp"
             android:paddingBottom="10dp"
             android:text="Alterar Foto\n (Câmera)"
